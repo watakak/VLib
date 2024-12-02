@@ -1,0 +1,2 @@
+memory https://github.com/enclave/memory
+random https://github.com/watakak/random

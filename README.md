@@ -1,2 +1,2 @@
 # VLib
-An easy installer for V Modules
+Easy and simple V Modules installer for Windows
